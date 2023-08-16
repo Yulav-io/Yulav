@@ -1,0 +1,10 @@
+Django
+gunicorn
+djangorestframework
+djoser
+django-cors-headers
+django-cloudinary-storage
+mutagen
+stripe
+cloudinary 
+dj_database_url
